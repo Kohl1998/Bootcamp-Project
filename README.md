@@ -4,9 +4,9 @@
 
 This application is for bootcamp students that needed a webpage where all the relevant notes on HTML, CSS, Javascript, & Git could be structured as a reference guide. 
 
-## Installation
+## Screenshot
 
-N/A
+[![prework-study-guide.jpg](https://i.postimg.cc/Y0CZrnPP/prework-study-guide.jpg)](https://postimg.cc/TLBCQ9fj)
 
 ## Usage
 
